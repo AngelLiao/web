@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/tags/index.html</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/tags/index.html</loc>
     
     <lastmod>2020-09-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/about/index.html</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/archive/index.html</loc>
     
     <lastmod>2020-09-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/archive/index.html</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/about/index.html</loc>
     
     <lastmod>2020-09-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/categories/index.html</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/categories/index.html</loc>
     
     <lastmod>2020-09-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-09-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/404.html</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/404.html</loc>
     
     <lastmod>2020-09-04</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>http://yoursite-url/</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E</loc>
     <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,14 +53,14 @@
 
   
   <url>
-    <loc>http://yoursite-url/tags/Hexo/</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/tags/Hexo/</loc>
     <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/tags/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -69,7 +69,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://angelliao.github.io/web/%3Cyour-branch%3E/categories/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
